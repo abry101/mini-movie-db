@@ -1,1706 +1,868 @@
 {
-    "authors": [
+    "genres": [
         {
-            "id": 1,
-            "name": "Imelda Anderer",
-            "gender": "M",
-            "avatar": "https://robohash.org/modietdignissimos.png?size=100x100&set=set5",
-            "bio": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-            "age": 75
+          "id": 28,
+          "name": "Action"
         },
         {
-            "id": 2,
-            "name": "Hy Drissell",
-            "gender": "F",
-            "avatar": "https://robohash.org/commodiipsamsapiente.png?size=100x100&set=set5",
-            "bio": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-            "age": 50
+          "id": 12,
+          "name": "Adventure"
         },
         {
-            "id": 3,
-            "name": "Robinia O' Kelleher",
-            "gender": "M",
-            "avatar": "https://robohash.org/nisiquiasit.png?size=100x100&set=set5",
-            "bio": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-            "age": 68
+          "id": 16,
+          "name": "Animation"
         },
         {
-            "id": 4,
-            "name": "Zorah Kyte",
-            "gender": "M",
-            "avatar": "https://robohash.org/nondignissimossed.png?size=100x100&set=set5",
-            "bio": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-            "age": 68
+          "id": 35,
+          "name": "Comedy"
         },
         {
-            "id": 5,
-            "name": "Rhoda Penswick",
-            "gender": "F",
-            "avatar": "https://robohash.org/velitsolutaqui.png?size=100x100&set=set5",
-            "bio": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-            "age": 49
+          "id": 80,
+          "name": "Crime"
         },
         {
-            "id": 6,
-            "name": "Rebekah Teenan",
-            "gender": "M",
-            "avatar": "https://robohash.org/deseruntprovidentdolor.png?size=100x100&set=set5",
-            "bio": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "age": 66
+          "id": 99,
+          "name": "Documentary"
         },
         {
-            "id": 7,
-            "name": "Sib Corneil",
-            "gender": "M",
-            "avatar": "https://robohash.org/expeditaofficiaquo.png?size=100x100&set=set5",
-            "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "age": 61
+          "id": 18,
+          "name": "Drama"
         },
         {
-            "id": 8,
-            "name": "Jaime Skeels",
-            "gender": "M",
-            "avatar": "https://robohash.org/estindoloremque.png?size=100x100&set=set5",
-            "bio": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "age": 64
+          "id": 10751,
+          "name": "Family"
         },
         {
-            "id": 9,
-            "name": "Starlene Glowacha",
-            "gender": "F",
-            "avatar": "https://robohash.org/occaecaticonsequunturdoloribus.png?size=100x100&set=set5",
-            "bio": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-            "age": 40
+          "id": 14,
+          "name": "Fantasy"
         },
         {
-            "id": 10,
-            "name": "Dulce Gronou",
-            "gender": "M",
-            "avatar": "https://robohash.org/mollitiasuscipitoptio.png?size=100x100&set=set5",
-            "bio": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "age": 55
+          "id": 36,
+          "name": "History"
         },
         {
-            "id": 11,
-            "name": "Cristionna Minthorpe",
-            "gender": "M",
-            "avatar": "https://robohash.org/ducimusutnemo.png?size=100x100&set=set5",
-            "bio": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-            "age": 38
+          "id": 27,
+          "name": "Horror"
         },
         {
-            "id": 12,
-            "name": "Roda Nodes",
-            "gender": "F",
-            "avatar": "https://robohash.org/doloribusquiaiste.png?size=100x100&set=set5",
-            "bio": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-            "age": 63
+          "id": 10402,
+          "name": "Music"
         },
         {
-            "id": 13,
-            "name": "Edik Casino",
-            "gender": "M",
-            "avatar": "https://robohash.org/nonautemquis.png?size=100x100&set=set5",
-            "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "age": 56
+          "id": 9648,
+          "name": "Mystery"
         },
         {
-            "id": 14,
-            "name": "Tiffie Pareman",
-            "gender": "F",
-            "avatar": "https://robohash.org/quasquieum.png?size=100x100&set=set5",
-            "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "age": 72
+          "id": 10749,
+          "name": "Romance"
         },
         {
-            "id": 15,
-            "name": "Hy Ollin",
-            "gender": "M",
-            "avatar": "https://robohash.org/quasfugitminima.png?size=100x100&set=set5",
-            "bio": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-            "age": 51
+          "id": 878,
+          "name": "Science Fiction"
         },
         {
-            "id": 16,
-            "name": "Rosabel Corona",
-            "gender": "M",
-            "avatar": "https://robohash.org/inventorenequedoloribus.png?size=100x100&set=set5",
-            "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "age": 69
+          "id": 10770,
+          "name": "TV Movie"
         },
         {
-            "id": 17,
-            "name": "Calida Scholler",
-            "gender": "M",
-            "avatar": "https://robohash.org/nihildelenitidistinctio.png?size=100x100&set=set5",
-            "bio": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "age": 73
+          "id": 53,
+          "name": "Thriller"
         },
         {
-            "id": 18,
-            "name": "Seamus McIlhone",
-            "gender": "M",
-            "avatar": "https://robohash.org/temporibusnemoquisquam.png?size=100x100&set=set5",
-            "bio": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-            "age": 43
+          "id": 10752,
+          "name": "War"
         },
         {
-            "id": 19,
-            "name": "Gavra Pavelin",
-            "gender": "M",
-            "avatar": "https://robohash.org/omniseaconsequuntur.png?size=100x100&set=set5",
-            "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-            "age": 74
-        },
-        {
-            "id": 20,
-            "name": "Moishe MacAlaster",
-            "gender": "F",
-            "avatar": "https://robohash.org/blanditiisasimilique.png?size=100x100&set=set5",
-            "bio": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "age": 37
-        },
-        {
-            "id": 21,
-            "name": "Kermy Melburg",
-            "gender": "F",
-            "avatar": "https://robohash.org/nihiltemporadolores.png?size=100x100&set=set5",
-            "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "age": 64
-        },
-        {
-            "id": 22,
-            "name": "Ynes Connold",
-            "gender": "F",
-            "avatar": "https://robohash.org/necessitatibuserrorfugiat.png?size=100x100&set=set5",
-            "bio": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-            "age": 57
-        },
-        {
-            "id": 23,
-            "name": "Philomena Whitelock",
-            "gender": "F",
-            "avatar": "https://robohash.org/eligendiquiquo.png?size=100x100&set=set5",
-            "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-            "age": 72
-        },
-        {
-            "id": 24,
-            "name": "Madel Jovanovic",
-            "gender": "F",
-            "avatar": "https://robohash.org/utnullablanditiis.png?size=100x100&set=set5",
-            "bio": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "age": 70
-        },
-        {
-            "id": 25,
-            "name": "Austina Wakeling",
-            "gender": "F",
-            "avatar": "https://robohash.org/consequaturexpeditarepudiandae.png?size=100x100&set=set5",
-            "bio": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-            "age": 45
-        },
-        {
-            "id": 26,
-            "name": "Bee Leate",
-            "gender": "F",
-            "avatar": "https://robohash.org/velitexplicaboaut.png?size=100x100&set=set5",
-            "bio": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "age": 67
-        },
-        {
-            "id": 27,
-            "name": "Georgianna Eastes",
-            "gender": "M",
-            "avatar": "https://robohash.org/quibusdametperferendis.png?size=100x100&set=set5",
-            "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "age": 65
-        },
-        {
-            "id": 28,
-            "name": "Fremont Williams",
-            "gender": "M",
-            "avatar": "https://robohash.org/nobisperferendishic.png?size=100x100&set=set5",
-            "bio": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-            "age": 57
-        },
-        {
-            "id": 29,
-            "name": "Saunderson Breslin",
-            "gender": "F",
-            "avatar": "https://robohash.org/idrerumquo.png?size=100x100&set=set5",
-            "bio": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-            "age": 60
-        },
-        {
-            "id": 30,
-            "name": "Fina Blore",
-            "gender": "M",
-            "avatar": "https://robohash.org/sitperspiciatisipsa.png?size=100x100&set=set5",
-            "bio": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-            "age": 53
-        },
-        {
-            "id": 31,
-            "name": "Deloria Plampin",
-            "gender": "M",
-            "avatar": "https://robohash.org/voluptatemtemporibusinventore.png?size=100x100&set=set5",
-            "bio": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-            "age": 47
-        },
-        {
-            "id": 32,
-            "name": "Anabel McSharry",
-            "gender": "M",
-            "avatar": "https://robohash.org/magnitemporibusfacere.png?size=100x100&set=set5",
-            "bio": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-            "age": 69
-        },
-        {
-            "id": 33,
-            "name": "Darya Sebyer",
-            "gender": "M",
-            "avatar": "https://robohash.org/nostrumnonearum.png?size=100x100&set=set5",
-            "bio": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
-            "age": 72
-        },
-        {
-            "id": 34,
-            "name": "Doreen Klessmann",
-            "gender": "F",
-            "avatar": "https://robohash.org/utlaborumnisi.png?size=100x100&set=set5",
-            "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-            "age": 44
-        },
-        {
-            "id": 35,
-            "name": "Aida Eltun",
-            "gender": "F",
-            "avatar": "https://robohash.org/estiurequas.png?size=100x100&set=set5",
-            "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "age": 46
-        },
-        {
-            "id": 36,
-            "name": "Hulda Matyushenko",
-            "gender": "M",
-            "avatar": "https://robohash.org/remminimaculpa.png?size=100x100&set=set5",
-            "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-            "age": 74
-        },
-        {
-            "id": 37,
-            "name": "Gabriele Tripett",
-            "gender": "M",
-            "avatar": "https://robohash.org/quaeratomniscum.png?size=100x100&set=set5",
-            "bio": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-            "age": 65
-        },
-        {
-            "id": 38,
-            "name": "Damara Cove",
-            "gender": "M",
-            "avatar": "https://robohash.org/exdoloreanimi.png?size=100x100&set=set5",
-            "bio": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-            "age": 66
-        },
-        {
-            "id": 39,
-            "name": "Tobias Marriot",
-            "gender": "M",
-            "avatar": "https://robohash.org/veritatismolestiasest.png?size=100x100&set=set5",
-            "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-            "age": 43
-        },
-        {
-            "id": 40,
-            "name": "Griffy Innwood",
-            "gender": "F",
-            "avatar": "https://robohash.org/oditeumfacere.png?size=100x100&set=set5",
-            "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-            "age": 64
-        },
-        {
-            "id": 41,
-            "name": "Oren Payne",
-            "gender": "F",
-            "avatar": "https://robohash.org/quinonest.png?size=100x100&set=set5",
-            "bio": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-            "age": 49
-        },
-        {
-            "id": 42,
-            "name": "Misti Cunde",
-            "gender": "M",
-            "avatar": "https://robohash.org/estfugadolorem.png?size=100x100&set=set5",
-            "bio": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-            "age": 60
-        },
-        {
-            "id": 43,
-            "name": "Tierney Jime",
-            "gender": "M",
-            "avatar": "https://robohash.org/situtest.png?size=100x100&set=set5",
-            "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "age": 72
-        },
-        {
-            "id": 44,
-            "name": "Dalston McGuiness",
-            "gender": "F",
-            "avatar": "https://robohash.org/nihilhicnumquam.png?size=100x100&set=set5",
-            "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "age": 75
-        },
-        {
-            "id": 45,
-            "name": "Eden Persich",
-            "gender": "F",
-            "avatar": "https://robohash.org/voluptatemnihiltemporibus.png?size=100x100&set=set5",
-            "bio": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-            "age": 46
-        },
-        {
-            "id": 46,
-            "name": "Rhody Wildor",
-            "gender": "M",
-            "avatar": "https://robohash.org/autemaspernaturvoluptatem.png?size=100x100&set=set5",
-            "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "age": 37
-        },
-        {
-            "id": 47,
-            "name": "Thorin Fursland",
-            "gender": "M",
-            "avatar": "https://robohash.org/eiuslaudantiumdoloribus.png?size=100x100&set=set5",
-            "bio": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-            "age": 62
-        },
-        {
-            "id": 48,
-            "name": "Gisele Dutton",
-            "gender": "M",
-            "avatar": "https://robohash.org/repellatsuntnemo.png?size=100x100&set=set5",
-            "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "age": 52
-        },
-        {
-            "id": 49,
-            "name": "Janeen Thomke",
-            "gender": "F",
-            "avatar": "https://robohash.org/namtemporibusquod.png?size=100x100&set=set5",
-            "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-            "age": 68
-        },
-        {
-            "id": 50,
-            "name": "Fields Davsley",
-            "gender": "F",
-            "avatar": "https://robohash.org/nisilaboresunt.png?size=100x100&set=set5",
-            "bio": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-            "age": 41
-        },
-        {
-            "id": 51,
-            "name": "Clem Daspar",
-            "gender": "F",
-            "avatar": "https://robohash.org/etculpavitae.png?size=100x100&set=set5",
-            "bio": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "age": 74
-        },
-        {
-            "id": 52,
-            "name": "Angelo Andrin",
-            "gender": "F",
-            "avatar": "https://robohash.org/voluptatumlaboriosamiure.png?size=100x100&set=set5",
-            "bio": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-            "age": 38
-        },
-        {
-            "id": 53,
-            "name": "Haily Preskett",
-            "gender": "M",
-            "avatar": "https://robohash.org/odiovoluptasquasi.png?size=100x100&set=set5",
-            "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
-            "age": 67
-        },
-        {
-            "id": 54,
-            "name": "Kyrstin McCumskay",
-            "gender": "M",
-            "avatar": "https://robohash.org/consequaturquidemquia.png?size=100x100&set=set5",
-            "bio": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-            "age": 46
-        },
-        {
-            "id": 55,
-            "name": "Ignaz Tucsell",
-            "gender": "M",
-            "avatar": "https://robohash.org/minimaaliasqui.png?size=100x100&set=set5",
-            "bio": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-            "age": 52
-        },
-        {
-            "id": 56,
-            "name": "Dennie Kmiec",
-            "gender": "F",
-            "avatar": "https://robohash.org/magnamdebitisquaerat.png?size=100x100&set=set5",
-            "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-            "age": 43
-        },
-        {
-            "id": 57,
-            "name": "Modesta Polglase",
-            "gender": "M",
-            "avatar": "https://robohash.org/corruptiquisquamquam.png?size=100x100&set=set5",
-            "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-            "age": 64
-        },
-        {
-            "id": 58,
-            "name": "Rab Bracknell",
-            "gender": "M",
-            "avatar": "https://robohash.org/reprehenderitconsequaturcum.png?size=100x100&set=set5",
-            "bio": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "age": 57
-        },
-        {
-            "id": 59,
-            "name": "Betteanne Colvin",
-            "gender": "F",
-            "avatar": "https://robohash.org/quiliberonobis.png?size=100x100&set=set5",
-            "bio": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-            "age": 36
-        },
-        {
-            "id": 60,
-            "name": "Agace Freshwater",
-            "gender": "F",
-            "avatar": "https://robohash.org/estvoluptasaliquid.png?size=100x100&set=set5",
-            "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "age": 52
-        },
-        {
-            "id": 61,
-            "name": "Blinny Tchir",
-            "gender": "F",
-            "avatar": "https://robohash.org/autperspiciatisofficia.png?size=100x100&set=set5",
-            "bio": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "age": 52
-        },
-        {
-            "id": 62,
-            "name": "Shurwood Cuncliffe",
-            "gender": "M",
-            "avatar": "https://robohash.org/voluptasametquia.png?size=100x100&set=set5",
-            "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-            "age": 44
-        },
-        {
-            "id": 63,
-            "name": "Raffarty Wildash",
-            "gender": "F",
-            "avatar": "https://robohash.org/cumqueomnisrepellendus.png?size=100x100&set=set5",
-            "bio": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-            "age": 67
-        },
-        {
-            "id": 64,
-            "name": "Manny Willoughby",
-            "gender": "F",
-            "avatar": "https://robohash.org/voluptatemsaepeconsequatur.png?size=100x100&set=set5",
-            "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "age": 69
-        },
-        {
-            "id": 65,
-            "name": "Deborah Aspy",
-            "gender": "F",
-            "avatar": "https://robohash.org/recusandaeesteaque.png?size=100x100&set=set5",
-            "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-            "age": 75
-        },
-        {
-            "id": 66,
-            "name": "Brennen Donan",
-            "gender": "M",
-            "avatar": "https://robohash.org/solutaeosdolorum.png?size=100x100&set=set5",
-            "bio": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "age": 62
-        },
-        {
-            "id": 67,
-            "name": "Barclay Tewkesberry",
-            "gender": "M",
-            "avatar": "https://robohash.org/velitautemquod.png?size=100x100&set=set5",
-            "bio": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-            "age": 55
-        },
-        {
-            "id": 68,
-            "name": "Yance Shortell",
-            "gender": "M",
-            "avatar": "https://robohash.org/pariatursuscipitdolore.png?size=100x100&set=set5",
-            "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-            "age": 59
-        },
-        {
-            "id": 69,
-            "name": "Pernell Saby",
-            "gender": "M",
-            "avatar": "https://robohash.org/rerumaccusantiumillum.png?size=100x100&set=set5",
-            "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-            "age": 75
-        },
-        {
-            "id": 70,
-            "name": "Olva Comley",
-            "gender": "F",
-            "avatar": "https://robohash.org/hicestconsequatur.png?size=100x100&set=set5",
-            "bio": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-            "age": 41
-        },
-        {
-            "id": 71,
-            "name": "Kare Lamlin",
-            "gender": "M",
-            "avatar": "https://robohash.org/etveritatiscorporis.png?size=100x100&set=set5",
-            "bio": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-            "age": 38
-        },
-        {
-            "id": 72,
-            "name": "Angy Riden",
-            "gender": "F",
-            "avatar": "https://robohash.org/voluptasseddolorum.png?size=100x100&set=set5",
-            "bio": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-            "age": 53
-        },
-        {
-            "id": 73,
-            "name": "Peggie Arkwright",
-            "gender": "F",
-            "avatar": "https://robohash.org/architectolaudantiumvoluptates.png?size=100x100&set=set5",
-            "bio": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "age": 72
-        },
-        {
-            "id": 74,
-            "name": "Mohandis Kuhnel",
-            "gender": "F",
-            "avatar": "https://robohash.org/animiautquam.png?size=100x100&set=set5",
-            "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-            "age": 63
-        },
-        {
-            "id": 75,
-            "name": "Gilberto Ivanishin",
-            "gender": "M",
-            "avatar": "https://robohash.org/sintvoluptasab.png?size=100x100&set=set5",
-            "bio": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-            "age": 66
+          "id": 37,
+          "name": "Western"
         }
-    ],
+      ],
+    "tv-show": [
+        {
+          "backdrop_path": "/N1hWzVPpZ8lIQvQskgdQogxdsc.jpg",
+          "first_air_date": "2021-06-09",
+          "genre_ids": [
+            18,
+            10765
+          ],
+          "id": 84958,
+          "name": "Loki",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Loki",
+          "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+          "popularity": 3345.313,
+          "poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+          "vote_average": 8.2,
+          "vote_count": 10602
+        },
+        {
+          "backdrop_path": "/72iLiVaagM42DSygSs4xAnXvDzh.jpg",
+          "first_air_date": "2023-10-02",
+          "genre_ids": [
+            16
+          ],
+          "id": 233643,
+          "name": "Secret Mission: Sennyuu Sousakan wa Zettai ni Makenai!",
+          "origin_country": [
+            "JP"
+          ],
+          "original_language": "ja",
+          "original_name": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
+          "overview": "The story follows two undercover agents Riko Ikazuchi and her junior partner Noma, who are infiltrating an apartment that is also the hideout of a criminal organization. They pretend to be newlyweds. However, when the culprits do not hear noise from them at night, they get suspicious. In order to convince the culprits that they are a married in couple in love, they start to touch and make some noise... Despite feelings of humiliation and pleasure throughout the undercover investigations, Riko endures it and devotes herself to her justice.",
+          "popularity": 3276.906,
+          "poster_path": "/ipqu76qqHiVB2vlK2gGZNwF9SwX.jpg",
+          "vote_average": 5.6,
+          "vote_count": 13
+        },
+        {
+          "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+          "first_air_date": "1952-12-26",
+          "genre_ids": [
+            10763
+          ],
+          "id": 94722,
+          "name": "Tagesschau",
+          "origin_country": [
+            "DE"
+          ],
+          "original_language": "de",
+          "original_name": "Tagesschau",
+          "overview": "German daily news program, the oldest still existing program on German television.",
+          "popularity": 3782.201,
+          "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+          "vote_average": 7.2,
+          "vote_count": 162
+        },
+        {
+          "backdrop_path": "/1vXtlRote1W6T6i4Pinqf01ATns.jpg",
+          "first_air_date": "2023-09-25",
+          "genre_ids": [
+            35,
+            9648,
+            10766,
+            18
+          ],
+          "id": 219109,
+          "name": "Elas por Elas",
+          "origin_country": [
+            "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Elas por Elas",
+          "overview": "Seven friends who met in their youth at an English course meet again 25 years later; Lara, Taís, Helena, Adriana, Renée, Natália and Carol, each of them has a different personality and origin, but they share a deep affection.",
+          "popularity": 2522.601,
+          "poster_path": "/hCSH5KvSqShWXhFiXr88wtJXwlO.jpg",
+          "vote_average": 9.6,
+          "vote_count": 5
+        },
+        {
+          "backdrop_path": "/ugcdRKcOyUMAr9hAsL058cAX2vj.jpg",
+          "first_air_date": "2001-10-20",
+          "genre_ids": [
+            10764
+          ],
+          "id": 12409,
+          "name": "Star Academy",
+          "origin_country": [
+            "FR"
+          ],
+          "original_language": "fr",
+          "original_name": "Star Academy",
+          "overview": "Star Academy is a French reality television show produced by the Dutch company Endemol. It consists of a contest of young singers. It spawned an equally successful show in Quebec called Star Académie. It is broadcast on NRJ12. At the end of each season, selected contestants would go on tour around France, Morocco, Switzerland, Belgium, Tunisia, and other French-speaking countries.\n\nThe contestants stayed in the Dammarie-lès-Lys castle: The Vives-Eaux castle.\n\nThe reality show was hosted by Nikos Aliagas and featured guest stars such as Madonna, Alizée, Céline Dion, Tina Arena, Nelly Furtado, Tokio Hotel, Andrea Bocelli, Charles Aznavour, Hélène Ségara, Peter Kingsbery, Phil Collins, Laura Pausini, Kylie Minogue, Dannii Minogue, Tina Turner, Mariah Carey, Lara Fabian, Rihanna, Shania Twain, Moby, Avril Lavigne, Anastacia, Alicia Keys, Craig David, 50 Cent, will.i.am, James Blunt, Diddy, Sting, David Guetta, Lenny Kravitz, Janet Jackson, Britney Spears, Liza Minnelli, Johnny Hallyday, Paul Anka, Lionel Richie, Alanis Morissette, Ray Charles, Stevie Wonder, Elton John, Bee Gees, Ricky Martin, and Beyoncé.",
+          "popularity": 2225.642,
+          "poster_path": "/80BP36meHtHF2UuDBgvAJxgFo5V.jpg",
+          "vote_average": 7,
+          "vote_count": 6
+        },
+        {
+          "backdrop_path": "/aDRIKJuB63tuJUZf1O4mRmbMTVw.jpg",
+          "first_air_date": "1999-09-30",
+          "genre_ids": [
+            10764
+          ],
+          "id": 6480,
+          "name": "House Hunters",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "House Hunters",
+          "overview": "Hosted by Suzanne Whang, the show takes viewers behind the scenes as individuals, couples and families learn what to look for and decide whether or not a home is meant for them. Focusing on the emotional experience of finding and purchasing a new home, each episode follows a prospective buyer and real estate agent through the home-buying process, from start to finish.",
+          "popularity": 2571.694,
+          "poster_path": "/7Bsr9ogG0q6yHtNuIp6bJ6EFpbH.jpg",
+          "vote_average": 5.1,
+          "vote_count": 25
+        },
+        {
+          "backdrop_path": "/hwUQsL1cWt0bmbTxzCompqqvTH9.jpg",
+          "first_air_date": "2004-01-22",
+          "genre_ids": [
+            10764
+          ],
+          "id": 82250,
+          "name": "Gran hermano VIP",
+          "origin_country": [
+            "ES"
+          ],
+          "original_language": "es",
+          "original_name": "Gran hermano VIP",
+          "overview": "",
+          "popularity": 2221.103,
+          "poster_path": "/9269PATr0bmEXKjkpR88mzGmNYI.jpg",
+          "vote_average": 4,
+          "vote_count": 7
+        },
+        {
+          "backdrop_path": "/oaj5cYJgbGalZfeN4Ihpr8GoP7k.jpg",
+          "first_air_date": "2023-10-08",
+          "genre_ids": [
+            10764
+          ],
+          "id": 237019,
+          "name": "Big Brother: Live Stream",
+          "origin_country": [
+            "GB"
+          ],
+          "original_language": "en",
+          "original_name": "Big Brother: Live Stream",
+          "overview": "Big Brother sees it all - and so can you.",
+          "popularity": 1804.455,
+          "poster_path": "/sYuUb7W2DyLux7paqF4Oob3z2bF.jpg",
+          "vote_average": 0,
+          "vote_count": 0
+        },
+        {
+          "backdrop_path": "/9xxLWtnFxkpJ2h1uthpvCRK6vta.jpg",
+          "first_air_date": "1999-09-20",
+          "genre_ids": [
+            80,
+            18,
+            9648
+          ],
+          "id": 2734,
+          "name": "Law & Order: Special Victims Unit",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Law & Order: Special Victims Unit",
+          "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+          "popularity": 1325.174,
+          "poster_path": "/ywBt4WKADdMVgxTR1rS2uFwMYTH.jpg",
+          "vote_average": 8,
+          "vote_count": 3431
+        },
+        {
+          "backdrop_path": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+          "first_air_date": "1990-09-13",
+          "genre_ids": [
+            80,
+            18
+          ],
+          "id": 549,
+          "name": "Law & Order",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Law & Order",
+          "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+          "popularity": 1387.723,
+          "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+          "vote_average": 7.5,
+          "vote_count": 469
+        },
+        {
+          "backdrop_path": "/k3gglFokJMY7zdaEgaTp4w9Plh3.jpg",
+          "first_air_date": "2023-10-08",
+          "genre_ids": [
+            10764
+          ],
+          "id": 236594,
+          "name": "Big Brother: Late and Live",
+          "origin_country": [
+            "GB"
+          ],
+          "original_language": "en",
+          "original_name": "Big Brother: Late and Live",
+          "overview": "Big Brother hosts AJ Odudu and Will Best present from a studio just a stone's throw from the Big Brother house, featuring celebrity guests and a live studio audience.",
+          "popularity": 1783.406,
+          "poster_path": "/lRjcycXVYYaS2ix4TI8ISoivP1B.jpg",
+          "vote_average": 10,
+          "vote_count": 1
+        },
+        {
+          "backdrop_path": "/2N4LXvTkUwPRkbvyzdmzvtnCHgR.jpg",
+          "first_air_date": "2023-07-25",
+          "genre_ids": [],
+          "id": 225660,
+          "name": "Pira-Pirasong Paraiso",
+          "origin_country": [
+            "PH"
+          ],
+          "original_language": "tl",
+          "original_name": "Pira-Pirasong Paraiso",
+          "overview": "A con artist takes on the job of pretending to be one of the long-lost sisters of a young and rich woman. As she navigates a world of cunning and lies, she learns about right and wrong, love and family, and spectacular truths about herself.",
+          "popularity": 869.272,
+          "poster_path": "/gELcO56G9EsUj6LSjaDq8VvI8De.jpg",
+          "vote_average": 6,
+          "vote_count": 22
+        },
+        {
+          "backdrop_path": "/ohJTnu93hJ0Uonl86Wn3mOSlWXN.jpg",
+          "first_air_date": "2017-02-06",
+          "genre_ids": [
+            10751,
+            35,
+            18
+          ],
+          "id": 91759,
+          "name": "Come Home Love: Lo and Behold",
+          "origin_country": [
+            "HK"
+          ],
+          "original_language": "cn",
+          "original_name": "愛·回家之開心速遞",
+          "overview": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only concern now are his three daughters. His eldest daughter has immigrated overseas. His second daughter Hung Yeuk Shui has reached the marriageable age, but has no hopes for marriage anytime soon. She is constantly bickering with her younger sister Hung Sum Yue, who is an honour student, over trivial matters, causing their father to not know whether to laugh or cry. Hung Sue Yan, Hung Sue Gan's brother, moves in with the family, temporarily ending his life as a nomadic photographer. He joins Hung Yeuk Shui's company and encounters Ko Pak Fei, the director of an online shop. The two appear to be former lovers, making for lots of laughter. Since Hung Sue Yan moved in, a series of strange events have occurred in the family. Upon investigation, the source is traced to Lung Ging Fung, a promising young man who is the son of department store mogul Lung Gam Wai.",
+          "popularity": 1298.739,
+          "poster_path": "/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+          "vote_average": 5,
+          "vote_count": 31
+        },
+        {
+          "backdrop_path": "/aWPhMZ0P2DyfWB7k5NXhGHSZHGC.jpg",
+          "first_air_date": "2023-05-08",
+          "genre_ids": [
+            18,
+            80,
+            10766
+          ],
+          "id": 209265,
+          "name": "Land of Desire",
+          "origin_country": [
+            "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Terra e Paixão",
+          "overview": "When her husband is killed in a land grabbing attempt, Aline takes charge of cultivating his land and protecting his family. Facing the powerful Antonio La Selva, responsible for the death of her husband and the largest landowner in the region, Aline is determined to keep possession of her land and invest in its production. However, she didn't expect that she would fall in love with Daniel, son of her rival, who is at odds with his rebellious half-brother, Caio, who, in turn, also falls in love with the girl. In the interior of Brazil, Aline will have to fight two battles: the dispute for her lands and for her heart.",
+          "popularity": 1691.161,
+          "poster_path": "/6SgKArqMYmqSl5XlHEucGXvotw.jpg",
+          "vote_average": 6.5,
+          "vote_count": 123
+        },
+        {
+          "backdrop_path": "/uJWhX326FnQifpTgJ0ymhHqH4QM.jpg",
+          "first_air_date": "2023-10-27",
+          "genre_ids": [],
+          "id": 237826,
+          "name": "Woozle - Die Serie",
+          "origin_country": [
+            "DE"
+          ],
+          "original_language": "de",
+          "original_name": "Woozle - Die Serie",
+          "overview": "",
+          "popularity": 1640.159,
+          "poster_path": "/n8phuN049h17VzZrifK67dDBm70.jpg",
+          "vote_average": 1,
+          "vote_count": 1
+        },
+        {
+          "backdrop_path": "/4w3AZvQMdzOS7oXXrrPnRD59dBr.jpg",
+          "first_air_date": "2002-11-04",
+          "genre_ids": [
+            10767
+          ],
+          "id": 569,
+          "name": "Around the Horn",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Around the Horn",
+          "overview": "Around the Horn is a daily, half-hour sports roundtable on ESPN filmed in Washington, D.C. It airs at 5:00 pm ET, as part of a sports talk hour with Pardon the Interruption. The show is currently hosted by Tony Reali.",
+          "popularity": 698.799,
+          "poster_path": "/jGJUpb4fZPaIs1oyFKn0AGjOq5b.jpg",
+          "vote_average": 4.4,
+          "vote_count": 5
+        },
+        {
+          "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+          "first_air_date": "2023-01-09",
+          "genre_ids": [
+            10751,
+            35
+          ],
+          "id": 218145,
+          "name": "Mom for rent",
+          "origin_country": [
+            "SK"
+          ],
+          "original_language": "sk",
+          "original_name": "Mama na prenájom",
+          "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+          "popularity": 1575.959,
+          "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+          "vote_average": 6.1,
+          "vote_count": 8
+        },
+        {
+          "backdrop_path": "/ds1n5P0Y92cTh6UpbcA89hxM96a.jpg",
+          "first_air_date": "2005-03-27",
+          "genre_ids": [
+            18
+          ],
+          "id": 1416,
+          "name": "Grey's Anatomy",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Grey's Anatomy",
+          "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+          "popularity": 948.659,
+          "poster_path": "/daSFbrt8QCXV2hSwB0hqYjbj681.jpg",
+          "vote_average": 8.3,
+          "vote_count": 9612
+        },
+        {
+          "backdrop_path": "/yii7eIlaw1MRMfa7FTA6mW8hBUQ.jpg",
+          "first_air_date": "2023-08-14",
+          "genre_ids": [
+            35,
+            10766
+          ],
+          "id": 213026,
+          "name": "Fuzue",
+          "origin_country": [
+            "BR"
+          ],
+          "original_language": "pt",
+          "original_name": "Fuzuê",
+          "overview": "The department store Fuzue, specialized in popular items, is a success led by Nero Braga e Silva. Little does he know that the store's grounds have hidden relics for over 300 years.",
+          "popularity": 1553.334,
+          "poster_path": "/zNNFg8z3z7uT817n6M0kHRcYwq1.jpg",
+          "vote_average": 5.8,
+          "vote_count": 20
+        },
+        {
+          "backdrop_path": "/wU1y7snEVYiJBpZ2k1DjIpHgJbx.jpg",
+          "first_air_date": "1999-01-31",
+          "genre_ids": [
+            16,
+            35
+          ],
+          "id": 1434,
+          "name": "Family Guy",
+          "origin_country": [
+            "US"
+          ],
+          "original_language": "en",
+          "original_name": "Family Guy",
+          "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+          "popularity": 774.502,
+          "poster_path": "/hw2vi8agaJZ7oeSvS8uEYgOtK32.jpg",
+          "vote_average": 7.3,
+          "vote_count": 3945
+        }
+      ],
     "movies": [
         {
-            "id": 1,
-            "name": "Quick Change",
-            "poster_id": 101,
-            "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-            "genres": "Comedy|Crime",
-            "released": "8/9/2013",
-            "duration": 145,
-            "rating": 1.9,
-            "author_id": 25
-        },
-        {
-            "id": 2,
-            "name": "Old Men in New Cars (Gamle mænd i nye biler)",
-            "poster_id": 102,
-            "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "genres": "Action|Comedy",
-            "released": "3/23/2018",
-            "duration": 165,
-            "rating": 3.9,
-            "author_id": 67
-        },
-        {
-            "id": 3,
-            "name": "Dying Gaul, The",
-            "poster_id": 103,
-            "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "genres": "Drama|Romance",
-            "released": "12/28/2020",
-            "duration": 67,
-            "rating": 4.7,
-            "author_id": 34
-        },
-        {
-            "id": 4,
-            "name": "Mobsters",
-            "poster_id": 104,
-            "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-            "genres": "Crime|Drama",
-            "released": "9/19/2013",
-            "duration": 170,
-            "rating": 2.3,
-            "author_id": 16
-        },
-        {
-            "id": 5,
-            "name": "Don't Look Now: We're Being Shot At (La grande vadrouille)",
-            "poster_id": 105,
-            "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-            "genres": "Comedy|War",
-            "released": "8/6/2021",
-            "duration": 151,
-            "rating": 5.7,
-            "author_id": 23
-        },
-        {
-            "id": 6,
-            "name": "Howl",
-            "poster_id": 106,
-            "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "genres": "Drama",
-            "released": "12/26/2016",
-            "duration": 180,
-            "rating": 2.9,
-            "author_id": 35
-        },
-        {
-            "id": 7,
-            "name": "The Killers",
-            "poster_id": 107,
-            "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "genres": "Crime",
-            "released": "4/12/2023",
-            "duration": 48,
-            "rating": 6.9,
-            "author_id": 24
-        },
-        {
-            "id": 8,
-            "name": "Betrayal",
-            "poster_id": 108,
-            "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-            "genres": "Drama|Thriller",
-            "released": "1/19/2011",
-            "duration": 60,
-            "rating": 2.2,
-            "author_id": 69
-        },
-        {
-            "id": 9,
-            "name": "Ilo Ilo",
-            "poster_id": 109,
-            "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-            "genres": "Drama",
-            "released": "2/23/2022",
-            "duration": 175,
-            "rating": 4.9,
-            "author_id": 53
-        },
-        {
-            "id": 10,
-            "name": "100 Rifles",
-            "poster_id": 110,
-            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "genres": "Adventure|War|Western",
-            "released": "6/30/2011",
-            "duration": 102,
-            "rating": 5.9,
-            "author_id": 34
-        },
-        {
-            "id": 11,
-            "name": "Kronos (a.k.a. Captain Kronos: Vampire Hunter)",
-            "poster_id": 111,
-            "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-            "genres": "Horror",
-            "released": "7/30/2012",
-            "duration": 148,
-            "rating": 9.5,
-            "author_id": 42
-        },
-        {
-            "id": 12,
-            "name": "You've Got Mail",
-            "poster_id": 112,
-            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-            "genres": "Comedy|Romance",
-            "released": "1/15/2014",
-            "duration": 80,
-            "rating": 9.6,
-            "author_id": 2
-        },
-        {
-            "id": 13,
-            "name": "Villain, The (Ek Villain)",
-            "poster_id": 113,
-            "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-            "genres": "Action|Romance|Thriller",
-            "released": "2/18/2021",
-            "duration": 165,
-            "rating": 4.3,
-            "author_id": 53
-        },
-        {
-            "id": 14,
-            "name": "Let No Man Write My Epitaph",
-            "poster_id": 114,
-            "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-            "genres": "Drama",
-            "released": "6/30/2023",
-            "duration": 162,
-            "rating": 6.9,
-            "author_id": 25
-        },
-        {
-            "id": 15,
-            "name": "The Death and Life of Bobby Z",
-            "poster_id": 115,
-            "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-            "genres": "Action|Crime|Drama|Thriller",
-            "released": "2/16/2017",
-            "duration": 126,
-            "rating": 3.0,
-            "author_id": 19
-        },
-        {
-            "id": 16,
-            "name": "Wing Chun",
-            "poster_id": 116,
-            "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-            "genres": "Action|Comedy|Drama|Romance",
-            "released": "8/20/2017",
-            "duration": 132,
-            "rating": 5.7,
-            "author_id": 26
-        },
-        {
-            "id": 17,
-            "name": "Iceberg, L'",
-            "poster_id": 117,
-            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-            "genres": "Comedy",
-            "released": "6/27/2023",
-            "duration": 56,
-            "rating": 1.3,
-            "author_id": 53
-        },
-        {
-            "id": 18,
-            "name": "Great Directors",
-            "poster_id": 118,
-            "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "genres": "Documentary",
-            "released": "1/3/2016",
-            "duration": 170,
-            "rating": 2.0,
-            "author_id": 62
-        },
-        {
-            "id": 19,
-            "name": "Scanners III: The Takeover (Scanner Force)",
-            "poster_id": 119,
-            "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
-            "genres": "Action|Horror|Sci-Fi",
-            "released": "8/23/2021",
-            "duration": 117,
-            "rating": 3.3,
-            "author_id": 67
-        },
-        {
-            "id": 20,
-            "name": "Jenny",
-            "poster_id": 120,
-            "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-            "genres": "Drama",
-            "released": "5/17/2014",
-            "duration": 86,
-            "rating": 9.8,
-            "author_id": 58
-        },
-        {
-            "id": 21,
-            "name": "How Much Wood Would a Woodchuck Chuck (Beobachtungen zu einer neuen Sprache)",
-            "poster_id": 121,
-            "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-            "genres": "Documentary",
-            "released": "9/15/2017",
-            "duration": 140,
-            "rating": 8.7,
-            "author_id": 69
-        },
-        {
-            "id": 22,
-            "name": "My Side of the Mountain",
-            "poster_id": 122,
-            "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "genres": "Adventure|Children",
-            "released": "9/27/2019",
-            "duration": 122,
-            "rating": 6.4,
-            "author_id": 62
-        },
-        {
-            "id": 23,
-            "name": "Terms of Endearment",
-            "poster_id": 123,
-            "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "genres": "Comedy|Drama",
-            "released": "5/1/2017",
-            "duration": 173,
-            "rating": 5.3,
-            "author_id": 73
-        },
-        {
-            "id": 24,
-            "name": "Splinterheads",
-            "poster_id": 124,
-            "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
-            "genres": "Comedy",
-            "released": "9/9/2023",
-            "duration": 65,
-            "rating": 3.0,
-            "author_id": 65
-        },
-        {
-            "id": 25,
-            "name": "Voyage to the Beginning of the World (Viagem ao Princípio do Mundo)",
-            "poster_id": 125,
-            "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-            "genres": "Drama",
-            "released": "10/8/2023",
-            "duration": 113,
-            "rating": 6.2,
-            "author_id": 18
-        },
-        {
-            "id": 26,
-            "name": "Secrets, The (Sodot, Ha-)",
-            "poster_id": 126,
-            "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-            "genres": "Drama|Romance",
-            "released": "10/23/2016",
-            "duration": 159,
-            "rating": 2.6,
-            "author_id": 23
-        },
-        {
-            "id": 27,
-            "name": "Mabel's Married Life",
-            "poster_id": 127,
-            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "genres": "Comedy",
-            "released": "5/16/2016",
-            "duration": 134,
-            "rating": 8.3,
-            "author_id": 52
-        },
-        {
-            "id": 28,
-            "name": "Special",
-            "poster_id": 128,
-            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "genres": "Drama|Fantasy",
-            "released": "3/5/2019",
-            "duration": 141,
-            "rating": 3.1,
-            "author_id": 58
-        },
-        {
-            "id": 29,
-            "name": "Curse, The (a.k.a. The Farm)",
-            "poster_id": 129,
-            "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "genres": "Horror|Sci-Fi",
-            "released": "3/16/2021",
-            "duration": 108,
-            "rating": 4.3,
-            "author_id": 22
-        },
-        {
-            "id": 30,
-            "name": "Suck",
-            "poster_id": 130,
-            "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-            "genres": "Comedy|Horror|Musical",
-            "released": "9/5/2012",
-            "duration": 134,
-            "rating": 1.4,
-            "author_id": 24
-        },
-        {
-            "id": 31,
-            "name": "Spy(ies) (Espion(s))",
-            "poster_id": 131,
-            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-            "genres": "Drama|Romance|Thriller",
-            "released": "8/5/2011",
-            "duration": 118,
-            "rating": 8.1,
-            "author_id": 53
-        },
-        {
-            "id": 32,
-            "name": "Con Air",
-            "poster_id": 132,
-            "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-            "genres": "Action|Adventure|Thriller",
-            "released": "11/18/2022",
-            "duration": 71,
-            "rating": 4.2,
-            "author_id": 34
-        },
-        {
-            "id": 33,
-            "name": "Of Mice and Men",
-            "poster_id": 133,
-            "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-            "genres": "Drama",
-            "released": "6/13/2011",
-            "duration": 78,
-            "rating": 6.3,
-            "author_id": 11
-        },
-        {
-            "id": 34,
-            "name": "Naked Violence",
-            "poster_id": 134,
-            "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-            "genres": "Crime|Drama",
-            "released": "10/3/2019",
-            "duration": 148,
-            "rating": 9.2,
-            "author_id": 9
-        },
-        {
-            "id": 35,
-            "name": "Charlotte Gray",
-            "poster_id": 135,
-            "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-            "genres": "Drama|Romance",
-            "released": "10/29/2021",
-            "duration": 104,
-            "rating": 3.9,
-            "author_id": 47
-        },
-        {
-            "id": 36,
-            "name": "Scandal (Shubun)",
-            "poster_id": 136,
-            "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-            "genres": "Drama",
-            "released": "6/2/2014",
-            "duration": 178,
-            "rating": 4.5,
-            "author_id": 12
-        },
-        {
-            "id": 37,
-            "name": "Steel Trap, The",
-            "poster_id": 137,
-            "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-            "genres": "Crime|Drama",
-            "released": "7/24/2018",
-            "duration": 66,
-            "rating": 3.9,
-            "author_id": 10
-        },
-        {
-            "id": 38,
-            "name": "Mask",
-            "poster_id": 138,
-            "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-            "genres": "Drama",
-            "released": "6/9/2018",
-            "duration": 77,
-            "rating": 3.7,
-            "author_id": 52
-        },
-        {
-            "id": 39,
-            "name": "Last Chance: Diary of Comedians, The (Bokutachi no koukan nikki)",
-            "poster_id": 139,
-            "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-            "genres": "Comedy|Drama",
-            "released": "12/21/2017",
-            "duration": 151,
-            "rating": 1.8,
-            "author_id": 13
-        },
-        {
-            "id": 40,
-            "name": "Hard Rain",
-            "poster_id": 140,
-            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "genres": "Action|Crime|Thriller",
-            "released": "7/26/2011",
-            "duration": 143,
-            "rating": 5.2,
-            "author_id": 15
-        },
-        {
-            "id": 41,
-            "name": "Juwanna Mann",
-            "poster_id": 141,
-            "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "genres": "Comedy",
-            "released": "1/22/2018",
-            "duration": 150,
-            "rating": 4.7,
-            "author_id": 21
-        },
-        {
-            "id": 42,
-            "name": "True Blue ",
-            "poster_id": 142,
-            "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-            "genres": "Crime|Drama|Thriller",
-            "released": "10/1/2019",
-            "duration": 91,
-            "rating": 2.0,
-            "author_id": 3
-        },
-        {
-            "id": 43,
-            "name": "Svengali",
-            "poster_id": 143,
-            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "genres": "Drama|Horror",
-            "released": "3/24/2012",
-            "duration": 175,
-            "rating": 1.4,
-            "author_id": 15
-        },
-        {
-            "id": 44,
-            "name": "Jailbait",
-            "poster_id": 144,
-            "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "genres": "Crime|Drama|Thriller",
-            "released": "2/10/2012",
-            "duration": 60,
-            "rating": 1.6,
-            "author_id": 41
-        },
-        {
-            "id": 45,
-            "name": "Irma Vep",
-            "poster_id": 145,
-            "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-            "genres": "Comedy|Drama",
-            "released": "3/30/2023",
-            "duration": 141,
-            "rating": 7.9,
-            "author_id": 65
-        },
-        {
-            "id": 46,
-            "name": "Nobody Wants the Night",
-            "poster_id": 146,
-            "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "genres": "Drama",
-            "released": "12/11/2014",
-            "duration": 114,
-            "rating": 6.2,
-            "author_id": 57
-        },
-        {
-            "id": 47,
-            "name": "Ulysses (Ulisse)",
-            "poster_id": 147,
-            "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-            "genres": "Adventure",
-            "released": "5/23/2018",
-            "duration": 129,
-            "rating": 4.5,
-            "author_id": 41
-        },
-        {
-            "id": 48,
-            "name": "Katt Williams: The Pimp Chronicles Pt. 1",
-            "poster_id": 148,
-            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-            "genres": "Comedy|Documentary",
-            "released": "5/24/2019",
-            "duration": 72,
-            "rating": 8.7,
-            "author_id": 74
-        },
-        {
-            "id": 49,
-            "name": "Kindred, The",
-            "poster_id": 149,
-            "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-            "genres": "Horror|Sci-Fi",
-            "released": "12/7/2022",
-            "duration": 166,
-            "rating": 8.0,
-            "author_id": 37
-        },
-        {
-            "id": 50,
-            "name": "Deadline - U.S.A.",
-            "poster_id": 150,
-            "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "genres": "Crime|Drama",
-            "released": "11/28/2014",
-            "duration": 84,
-            "rating": 9.8,
-            "author_id": 27
-        },
-        {
-            "id": 51,
-            "name": "American Flyers",
-            "poster_id": 151,
-            "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
-            "genres": "Drama",
-            "released": "1/7/2014",
-            "duration": 155,
-            "rating": 1.9,
-            "author_id": 13
-        },
-        {
-            "id": 52,
-            "name": "13 Beloved (13 game sayawng)",
-            "poster_id": 152,
-            "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-            "genres": "Horror|Mystery|Thriller",
-            "released": "8/9/2022",
-            "duration": 106,
-            "rating": 3.2,
-            "author_id": 64
-        },
-        {
-            "id": 53,
-            "name": "Details, The",
-            "poster_id": 153,
-            "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-            "genres": "Comedy",
-            "released": "2/11/2020",
-            "duration": 64,
-            "rating": 5.1,
-            "author_id": 6
-        },
-        {
-            "id": 54,
-            "name": "Buddy",
-            "poster_id": 154,
-            "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-            "genres": "Adventure|Children|Drama",
-            "released": "8/3/2019",
-            "duration": 159,
-            "rating": 6.6,
-            "author_id": 45
-        },
-        {
-            "id": 55,
-            "name": "Return to Paradise",
-            "poster_id": 155,
-            "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
-            "genres": "Crime|Drama|Romance|Thriller",
-            "released": "6/25/2013",
-            "duration": 65,
-            "rating": 4.2,
-            "author_id": 54
-        },
-        {
-            "id": 56,
-            "name": "Bobby Deerfield",
-            "poster_id": 156,
-            "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "genres": "Drama|Romance",
-            "released": "2/24/2018",
-            "duration": 94,
-            "rating": 5.6,
-            "author_id": 25
-        },
-        {
-            "id": 57,
-            "name": "Window to Paris (Okno v Parizh)",
-            "poster_id": 157,
-            "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "genres": "Comedy|Fantasy",
-            "released": "8/24/2020",
-            "duration": 141,
-            "rating": 8.8,
-            "author_id": 16
-        },
-        {
-            "id": 58,
-            "name": "Get Well Soon",
-            "poster_id": 158,
-            "description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-            "genres": "Comedy|Drama|Romance",
-            "released": "10/23/2020",
-            "duration": 173,
-            "rating": 7.0,
-            "author_id": 10
-        },
-        {
-            "id": 59,
-            "name": "Dead Outside, The",
-            "poster_id": 159,
-            "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-            "genres": "Horror|Mystery|Thriller",
-            "released": "8/23/2016",
-            "duration": 60,
-            "rating": 5.5,
-            "author_id": 39
-        },
-        {
-            "id": 60,
-            "name": "Gorilla at Large",
-            "poster_id": 160,
-            "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-            "genres": "Mystery|Thriller",
-            "released": "12/25/2015",
-            "duration": 58,
-            "rating": 6.0,
-            "author_id": 75
-        },
-        {
-            "id": 61,
-            "name": "Last Ferry, The (Ostatni prom)",
-            "poster_id": 161,
-            "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
-            "genres": "Drama",
-            "released": "11/11/2017",
-            "duration": 119,
-            "rating": 2.3,
-            "author_id": 51
-        },
-        {
-            "id": 62,
-            "name": "A Chairy Tale",
-            "poster_id": 162,
-            "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-            "genres": "Animation|Comedy|Fantasy",
-            "released": "3/11/2014",
-            "duration": 144,
-            "rating": 6.6,
-            "author_id": 36
-        },
-        {
-            "id": 63,
-            "name": "Running Scared",
-            "poster_id": 163,
-            "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-            "genres": "Action|Drama",
-            "released": "12/11/2014",
-            "duration": 116,
-            "rating": 2.6,
-            "author_id": 13
-        },
-        {
-            "id": 64,
-            "name": "East is East",
-            "poster_id": 164,
-            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-            "genres": "Comedy",
-            "released": "12/30/2017",
-            "duration": 121,
-            "rating": 1.9,
-            "author_id": 66
-        },
-        {
-            "id": 65,
-            "name": "Thirst (Bakjwi)",
-            "poster_id": 165,
-            "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "genres": "Drama|Horror",
-            "released": "10/12/2015",
-            "duration": 165,
-            "rating": 9.5,
-            "author_id": 42
-        },
-        {
-            "id": 66,
-            "name": "Super, The",
-            "poster_id": 166,
-            "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-            "genres": "Comedy",
-            "released": "5/30/2022",
-            "duration": 80,
-            "rating": 9.8,
-            "author_id": 73
-        },
-        {
-            "id": 67,
-            "name": "When Will I Be Loved",
-            "poster_id": 167,
-            "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-            "genres": "Drama",
-            "released": "3/24/2015",
-            "duration": 149,
-            "rating": 4.6,
-            "author_id": 28
-        },
-        {
-            "id": 68,
-            "name": "Overnight Delivery",
-            "poster_id": 168,
-            "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "genres": "Comedy|Romance",
-            "released": "8/1/2013",
-            "duration": 50,
-            "rating": 3.0,
-            "author_id": 20
-        },
-        {
-            "id": 69,
-            "name": "Smokers Only (Vagón Fumador)",
-            "poster_id": 169,
-            "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-            "genres": "Drama|Romance",
-            "released": "8/19/2019",
-            "duration": 72,
-            "rating": 7.7,
-            "author_id": 66
-        },
-        {
-            "id": 70,
-            "name": "Earthsea (Legend of Earthsea)",
-            "poster_id": 170,
-            "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "genres": "Adventure|Drama|Fantasy",
-            "released": "2/22/2021",
-            "duration": 156,
-            "rating": 6.4,
-            "author_id": 17
-        },
-        {
-            "id": 71,
-            "name": "Thanksgiving Family Reunion (National Lampoon's Holiday Reunion)",
-            "poster_id": 171,
-            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-            "genres": "Comedy",
-            "released": "5/4/2013",
-            "duration": 72,
-            "rating": 3.6,
-            "author_id": 16
-        },
-        {
-            "id": 72,
-            "name": "Titan A.E.",
-            "poster_id": 172,
-            "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-            "genres": "Action|Adventure|Animation|Children|Sci-Fi",
-            "released": "7/18/2022",
-            "duration": 88,
-            "rating": 1.9,
-            "author_id": 15
-        },
-        {
-            "id": 73,
-            "name": "Donnie Brasco",
-            "poster_id": 173,
-            "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-            "genres": "Crime|Drama",
-            "released": "2/17/2017",
-            "duration": 84,
-            "rating": 8.1,
-            "author_id": 53
-        },
-        {
-            "id": 74,
-            "name": "Remarkable Power",
-            "poster_id": 174,
-            "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-            "genres": "Comedy",
-            "released": "7/23/2022",
-            "duration": 115,
-            "rating": 8.4,
-            "author_id": 32
-        },
-        {
-            "id": 75,
-            "name": "Amityville Horror, The",
-            "poster_id": 175,
-            "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-            "genres": "Drama|Horror|Mystery|Thriller",
-            "released": "6/11/2019",
-            "duration": 115,
-            "rating": 8.4,
-            "author_id": 65
-        },
-        {
-            "id": 76,
-            "name": "One for the Money",
-            "poster_id": 176,
-            "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-            "genres": "Action|Comedy|Crime",
-            "released": "5/13/2016",
-            "duration": 88,
-            "rating": 6.3,
-            "author_id": 46
-        },
-        {
-            "id": 77,
-            "name": "Storage 24",
-            "poster_id": 177,
-            "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-            "genres": "Horror|Sci-Fi",
-            "released": "5/1/2023",
-            "duration": 162,
-            "rating": 6.5,
-            "author_id": 36
-        },
-        {
-            "id": 78,
-            "name": "Macon County Line",
-            "poster_id": 178,
-            "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-            "genres": "Action|Drama",
-            "released": "1/19/2014",
-            "duration": 48,
-            "rating": 8.7,
-            "author_id": 25
-        },
-        {
-            "id": 79,
-            "name": "One Last Hug",
-            "poster_id": 179,
-            "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "genres": "Documentary",
-            "released": "3/28/2015",
-            "duration": 66,
-            "rating": 7.3,
-            "author_id": 73
-        },
-        {
-            "id": 80,
-            "name": "Consenting Adults",
-            "poster_id": 180,
-            "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-            "genres": "Thriller",
-            "released": "7/7/2012",
-            "duration": 149,
-            "rating": 10.0,
-            "author_id": 49
-        },
-        {
-            "id": 81,
-            "name": "Billy Jack Goes to Washington",
-            "poster_id": 181,
-            "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-            "genres": "Drama",
-            "released": "6/3/2022",
-            "duration": 49,
-            "rating": 2.8,
-            "author_id": 54
-        },
-        {
-            "id": 82,
-            "name": "Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese)",
-            "poster_id": 182,
-            "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-            "genres": "Action|Adventure|Animation|Fantasy|Sci-Fi",
-            "released": "1/21/2020",
-            "duration": 95,
-            "rating": 9.0,
-            "author_id": 52
-        },
-        {
-            "id": 83,
-            "name": "I Capture the Castle",
-            "poster_id": 183,
-            "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-            "genres": "Drama|Romance",
-            "released": "6/3/2011",
-            "duration": 114,
-            "rating": 8.9,
-            "author_id": 35
-        },
-        {
-            "id": 84,
-            "name": "Aya of Yop City",
-            "poster_id": 184,
-            "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-            "genres": "Animation|Comedy",
-            "released": "12/19/2013",
-            "duration": 131,
-            "rating": 4.9,
-            "author_id": 6
-        },
-        {
-            "id": 85,
-            "name": "Gods and Monsters",
-            "poster_id": 185,
-            "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-            "genres": "Drama",
-            "released": "6/7/2017",
-            "duration": 58,
-            "rating": 9.2,
-            "author_id": 61
-        },
-        {
-            "id": 86,
-            "name": "Summer Days With Coo",
-            "poster_id": 186,
-            "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "genres": "Animation",
-            "released": "7/6/2019",
-            "duration": 138,
-            "rating": 7.4,
-            "author_id": 47
-        },
-        {
-            "id": 87,
-            "name": "Simpatico",
-            "poster_id": 187,
-            "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-            "genres": "Comedy|Drama",
-            "released": "2/13/2022",
-            "duration": 45,
-            "rating": 6.2,
-            "author_id": 62
-        },
-        {
-            "id": 88,
-            "name": "Kikujiro (Kikujirô no natsu)",
-            "poster_id": 188,
-            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-            "genres": "Comedy|Drama",
-            "released": "2/16/2013",
-            "duration": 77,
-            "rating": 7.5,
-            "author_id": 29
-        },
-        {
-            "id": 89,
-            "name": "Five Pennies, The",
-            "poster_id": 189,
-            "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
-            "genres": "Drama",
-            "released": "9/5/2018",
-            "duration": 76,
-            "rating": 4.7,
-            "author_id": 2
-        },
-        {
-            "id": 90,
-            "name": "Notting Hill",
-            "poster_id": 190,
-            "description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-            "genres": "Comedy|Romance",
-            "released": "8/22/2015",
-            "duration": 110,
-            "rating": 4.2,
-            "author_id": 45
-        },
-        {
-            "id": 91,
-            "name": "Secret Garden, The",
-            "poster_id": 191,
-            "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-            "genres": "Children|Drama",
-            "released": "8/15/2022",
-            "duration": 125,
-            "rating": 9.3,
-            "author_id": 23
-        },
-        {
-            "id": 92,
-            "name": "Better Living Through Circuitry",
-            "poster_id": 192,
-            "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "genres": "Documentary",
-            "released": "6/5/2019",
-            "duration": 75,
-            "rating": 1.9,
-            "author_id": 2
-        },
-        {
-            "id": 93,
-            "name": "Man of the Century",
-            "poster_id": 193,
-            "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-            "genres": "Comedy",
-            "released": "1/24/2022",
-            "duration": 77,
-            "rating": 8.1,
-            "author_id": 60
-        },
-        {
-            "id": 94,
-            "name": "Save the Last Dance 2",
-            "poster_id": 194,
-            "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-            "genres": "Drama|Romance",
-            "released": "10/29/2023",
-            "duration": 141,
-            "rating": 4.8,
-            "author_id": 41
-        },
-        {
-            "id": 95,
-            "name": "Opposite of Sex, The",
-            "poster_id": 195,
-            "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-            "genres": "Comedy|Drama|Romance",
-            "released": "7/7/2012",
-            "duration": 50,
-            "rating": 9.1,
-            "author_id": 75
-        },
-        {
-            "id": 96,
-            "name": "The Little Polar Bear: Lars and the Little Tiger",
-            "poster_id": 196,
-            "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-            "genres": "Animation|Children",
-            "released": "6/22/2017",
-            "duration": 151,
-            "rating": 6.9,
-            "author_id": 34
-        },
-        {
-            "id": 97,
-            "name": "Bleeding House, The",
-            "poster_id": 197,
-            "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "genres": "Drama|Horror|Mystery|Thriller",
-            "released": "3/1/2017",
-            "duration": 71,
-            "rating": 7.7,
-            "author_id": 44
-        },
-        {
-            "id": 98,
-            "name": "Scratch",
-            "poster_id": 198,
-            "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-            "genres": "Documentary",
-            "released": "7/3/2015",
-            "duration": 132,
-            "rating": 5.8,
-            "author_id": 45
-        },
-        {
-            "id": 99,
-            "name": "Barren Lives (Vidas Secas)",
-            "poster_id": 199,
-            "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-            "genres": "Drama",
-            "released": "11/12/2017",
-            "duration": 65,
-            "rating": 9.7,
-            "author_id": 27
-        },
-        {
-            "id": 100,
-            "name": "Life and Nothing But (Vie et rien d'autre, La)",
-            "poster_id": 200,
-            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-            "genres": "Drama",
-            "released": "9/5/2013",
-            "duration": 157,
-            "rating": 6.0,
-            "author_id": 49
+          "adult": false,
+          "backdrop_path": "/h56edmERPTkey89SqyKu4hINVNy.jpg",
+          "genre_ids": [
+            28,
+            53
+          ],
+          "id": 575264,
+          "original_language": "en",
+          "original_title": "Mission: Impossible - Dead Reckoning Part One",
+          "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+          "popularity": 3018.297,
+          "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+          "release_date": "2023-07-08",
+          "title": "Mission: Impossible - Dead Reckoning Part One",
+          "video": false,
+          "vote_average": 7.6,
+          "vote_count": 2291
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/t5zCBSB5xMDKcDqe91qahCOUYVV.jpg",
+          "genre_ids": [
+            27,
+            9648
+          ],
+          "id": 507089,
+          "original_language": "en",
+          "original_title": "Five Nights at Freddy's",
+          "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+          "popularity": 2817.844,
+          "poster_path": "/j9mH1pr3IahtraTWxVEMANmPSGR.jpg",
+          "release_date": "2023-10-25",
+          "title": "Five Nights at Freddy's",
+          "video": false,
+          "vote_average": 8.1,
+          "vote_count": 2037
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
+          "genre_ids": [
+            28,
+            18
+          ],
+          "id": 678512,
+          "original_language": "en",
+          "original_title": "Sound of Freedom",
+          "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+          "popularity": 1861.244,
+          "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+          "release_date": "2023-07-03",
+          "title": "Sound of Freedom",
+          "video": false,
+          "vote_average": 8.1,
+          "vote_count": 1352
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
+          "genre_ids": [
+            28,
+            12,
+            53
+          ],
+          "id": 299054,
+          "original_language": "en",
+          "original_title": "Expend4bles",
+          "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+          "popularity": 2088.409,
+          "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+          "release_date": "2023-09-15",
+          "title": "Expend4bles",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 669
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "id": 609681,
+          "original_language": "en",
+          "original_title": "The Marvels",
+          "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+          "popularity": 1267.74,
+          "poster_path": "/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg",
+          "release_date": "2023-11-08",
+          "title": "The Marvels",
+          "video": false,
+          "vote_average": 6.6,
+          "vote_count": 279
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/tj7mp7uWjVw5N73G5Hwm1bkMOcD.jpg",
+          "genre_ids": [
+            28,
+            10752
+          ],
+          "id": 975902,
+          "original_language": "en",
+          "original_title": "Boudica",
+          "overview": "Inspired by events in A.D. 60, Boudica follows the eponymous Celtic warrior who rules the Iceni people alongside her husband Prasutagus. When he dies at the hands of Roman soldiers, Boudica’s kingdom is left without a male heir and the Romans seize her land and property.  Driven to the edge of madness and determined to avenge her husband’s death, Boudica rallies the various tribes from the region and wages an epic war against the mighty Roman empire.",
+          "popularity": 1396.082,
+          "poster_path": "/ssEFC5wfFjj7lJpUgwJDOK1Xu1J.jpg",
+          "release_date": "2023-10-26",
+          "title": "Boudica",
+          "video": false,
+          "vote_average": 6.7,
+          "vote_count": 64
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+          "genre_ids": [
+            28,
+            80,
+            53
+          ],
+          "id": 385687,
+          "original_language": "en",
+          "original_title": "Fast X",
+          "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+          "popularity": 1434.884,
+          "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+          "release_date": "2023-05-17",
+          "title": "Fast X",
+          "video": false,
+          "vote_average": 7.2,
+          "vote_count": 4218
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+          "genre_ids": [
+            28,
+            53,
+            80
+          ],
+          "id": 926393,
+          "original_language": "en",
+          "original_title": "The Equalizer 3",
+          "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+          "popularity": 1209.273,
+          "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+          "release_date": "2023-08-30",
+          "title": "The Equalizer 3",
+          "video": false,
+          "vote_average": 7.4,
+          "vote_count": 1557
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/rLb2cwF3Pazuxaj0sRXQ037tGI1.jpg",
+          "genre_ids": [
+            18,
+            36
+          ],
+          "id": 872585,
+          "original_language": "en",
+          "original_title": "Oppenheimer",
+          "overview": "The story of J. Robert Oppenheimer’s role in the development of the atomic bomb during World War II.",
+          "popularity": 1380.802,
+          "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+          "release_date": "2023-07-19",
+          "title": "Oppenheimer",
+          "video": false,
+          "vote_average": 8.2,
+          "vote_count": 4270
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/eSsMzJpzAwCa69tm6Wco2il44aJ.jpg",
+          "genre_ids": [
+            28,
+            80,
+            18,
+            53
+          ],
+          "id": 939335,
+          "original_language": "en",
+          "original_title": "Muzzle",
+          "overview": "LAPD K-9 officer Jake Rosser has just witnessed the shocking murder of his dedicated partner by a mysterious assailant. As he investigates the shooter’s identity, he uncovers a vast conspiracy that has a chokehold on the city in this thrilling journey through the tangled streets of Los Angeles and the corrupt bureaucracy of the LAPD.",
+          "popularity": 1243.663,
+          "poster_path": "/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+          "release_date": "2023-09-29",
+          "title": "Muzzle",
+          "video": false,
+          "vote_average": 6.7,
+          "vote_count": 114
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/iiXliCeykkzmJ0Eg9RYJ7F2CWSz.jpg",
+          "genre_ids": [
+            28,
+            53,
+            80
+          ],
+          "id": 762430,
+          "original_language": "en",
+          "original_title": "Retribution",
+          "overview": "When a mysterious caller puts a bomb under his car seat, Matt Turner begins a high-speed chase across the city to complete a specific series of tasks- all with his kids trapped in the back seat.",
+          "popularity": 1083.449,
+          "poster_path": "/hAZO3hvLQVjIDW32lxSKmOOl987.jpg",
+          "release_date": "2023-08-23",
+          "title": "Retribution",
+          "video": false,
+          "vote_average": 7,
+          "vote_count": 642
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg",
+          "genre_ids": [
+            27,
+            53
+          ],
+          "id": 951491,
+          "original_language": "en",
+          "original_title": "Saw X",
+          "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+          "popularity": 1072.723,
+          "poster_path": "/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg",
+          "release_date": "2023-09-26",
+          "title": "Saw X",
+          "video": false,
+          "vote_average": 7.4,
+          "vote_count": 1003
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/nohrh9aHNB1ehXmdtTZV5vStzcs.jpg",
+          "genre_ids": [
+            28,
+            35,
+            80
+          ],
+          "id": 1000081,
+          "original_language": "fr",
+          "original_title": "Sentinelle",
+          "overview": "François Sentinelle has two lives. By day, he is the most famous cop of Réunion Island, known for his tough methods and flowery shirts, pursuing criminals in his famous yellow defender. But the rest of the time, Sentinelle is also a charming singer.",
+          "popularity": 979.52,
+          "poster_path": "/wrFg0Q1kqfOhxlRvb8Dle7WF58F.jpg",
+          "release_date": "2023-08-27",
+          "title": "Sentinelle",
+          "video": false,
+          "vote_average": 5.3,
+          "vote_count": 188
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+          "genre_ids": [
+            28,
+            878,
+            27
+          ],
+          "id": 615656,
+          "original_language": "en",
+          "original_title": "Meg 2: The Trench",
+          "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+          "popularity": 820.047,
+          "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+          "release_date": "2023-08-02",
+          "title": "Meg 2: The Trench",
+          "video": false,
+          "vote_average": 6.8,
+          "vote_count": 2503
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
+          "genre_ids": [
+            12,
+            28,
+            18
+          ],
+          "id": 980489,
+          "original_language": "en",
+          "original_title": "Gran Turismo",
+          "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+          "popularity": 929.853,
+          "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+          "release_date": "2023-08-09",
+          "title": "Gran Turismo",
+          "video": false,
+          "vote_average": 8,
+          "vote_count": 1382
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/pLm9j7o5InoWaG2tlaQABYR2cAx.jpg",
+          "genre_ids": [
+            27,
+            9648,
+            53
+          ],
+          "id": 968051,
+          "original_language": "en",
+          "original_title": "The Nun II",
+          "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+          "popularity": 975.111,
+          "poster_path": "/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+          "release_date": "2023-09-06",
+          "title": "The Nun II",
+          "video": false,
+          "vote_average": 6.9,
+          "vote_count": 1385
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/AprNYUAS2AJ3xVgg7Wwt00GVvsM.jpg",
+          "genre_ids": [
+            16,
+            10751,
+            28,
+            878
+          ],
+          "id": 893723,
+          "original_language": "en",
+          "original_title": "PAW Patrol: The Mighty Movie",
+          "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+          "popularity": 823.132,
+          "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+          "release_date": "2023-09-21",
+          "title": "PAW Patrol: The Mighty Movie",
+          "video": false,
+          "vote_average": 7.1,
+          "vote_count": 146
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/wVTvfxz53pDqrIvbrxhVdKcLhip.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878,
+            53
+          ],
+          "id": 9381,
+          "original_language": "en",
+          "original_title": "Babylon A.D.",
+          "overview": "A veteran-turned-mercenary is hired to take a young woman with a secret from post-apocalyptic Eastern Europe to New York City.",
+          "popularity": 954.965,
+          "poster_path": "/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",
+          "release_date": "2008-08-20",
+          "title": "Babylon A.D.",
+          "video": false,
+          "vote_average": 5.6,
+          "vote_count": 1893
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/azD31DjpV3PJfjF3h72LVw2WCSD.jpg",
+          "genre_ids": [
+            27
+          ],
+          "id": 807172,
+          "original_language": "en",
+          "original_title": "The Exorcist: Believer",
+          "overview": "When two girls disappear into the woods and return three days later with no memory of what happened to them, the father of one girl seeks out Chris MacNeil, who's been forever altered by what happened to her daughter fifty years ago.",
+          "popularity": 859.035,
+          "poster_path": "/nqYrPJiKFoIsZt2kmZ0y3osffLs.jpg",
+          "release_date": "2023-10-04",
+          "title": "The Exorcist: Believer",
+          "video": false,
+          "vote_average": 6.2,
+          "vote_count": 535
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/jkKVLzLWjSvTnc84VzeljhSy6j8.jpg",
+          "genre_ids": [
+            10749,
+            18
+          ],
+          "id": 820525,
+          "original_language": "en",
+          "original_title": "After Everything",
+          "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+          "popularity": 682.286,
+          "poster_path": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+          "release_date": "2023-09-13",
+          "title": "After Everything",
+          "video": false,
+          "vote_average": 7.1,
+          "vote_count": 491
         }
-    ]
+      ]
 }
